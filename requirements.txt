@@ -1,0 +1,3 @@
+
+# Expense Tracker uses Python standard library only.
+# No external packages are required.
